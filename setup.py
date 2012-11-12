@@ -53,7 +53,10 @@ setup(name='policy.plonetraining',
 	  'qi.portlet.TagClouds',
           'quintagroup.analytics',
           'Solgema.fullcalendar',
-          'webcouturier.dropdownmenu'
+          'webcouturier.dropdownmenu',
+	  'collective.portlet.videoanysurfer',
+	  'collective.videoanysurfer',
+	  'collective.linguafaq'
       ],
       extras_require={'test': ['plone.app.testing']},
       entry_points="""
