@@ -11,7 +11,15 @@
         <dependency>profile-Solgema.fullcalendar:default</dependency>
 	<dependency>profile-collective.js.colorpicker:default</dependency>
         <dependency>profile-collective.gallery:default</dependency>
+        <dependency>profile-collective.galleria:default</dependency>
         <dependency>profile-quintagroup.analytics:QAnalytics</dependency>
         <dependency>profile-qi.portlet.TagClouds:default</dependency>
+	<dependency>profile-collective.anysurfer:default</dependency>
+	<dependency>profile-collective.portlet.twittermultistream:default</dependency>
+        <dependency>profile-collective.portlet.oembed:default</dependency>
+        <dependency>profile-collective.diggdigg:default</dependency>
+        <dependency>profile-collective.portlet.socialnetworks:default</dependency>
+        <dependency>profile-collective.videoanysurfer:default</dependency>        
+        <dependency>profile-collective.portlet.videoanysurfer:default</dependency>
   </dependencies>
 </metadata>
