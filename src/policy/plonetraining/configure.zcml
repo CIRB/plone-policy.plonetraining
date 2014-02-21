@@ -20,6 +20,7 @@
 	    <include package="collective.easyslider" />
 	    <include package="collective.gallery" />
       <include package="collective.galleria" />
+        <include package="collective.galleriffic" />
 	    <include package="collective.js.colorpicker" />
 	    <include package="collective.js.fullcalendar" />        
 	    <include package="collective.plonefinder" />
