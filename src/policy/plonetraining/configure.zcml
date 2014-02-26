@@ -45,5 +45,6 @@
       <include package="collective.videoanysurfer" />
       <include package="collective.anysurfer" />
       <include package="collective.checktranslated" />
+      <include package="collective.z3cform.norobots" />
       <include package="plonetheme.plonetraining" />
 </configure>
