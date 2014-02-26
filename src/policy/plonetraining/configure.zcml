@@ -25,7 +25,7 @@
 	    <include package="collective.js.fullcalendar" />        
 	    <include package="collective.plonefinder" />
       <include package="collective.quickupload" />
-	    <include package="collective.recaptcha" />
+	    <!--include package="collective.recaptcha" /-->
       <include package="cirb.footersitemap" />    
       <include package="products.geoloc" />
 	    <include package="Products.LinguaPlone" /> 
